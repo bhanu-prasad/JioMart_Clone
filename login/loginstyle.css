@@ -84,7 +84,7 @@ body{
     border: none;
 }
 
-@media screen and (max-width:1059px) {
+@media screen and (max-width:1080px) {
     .mbl{
         display: none;
     }
@@ -101,7 +101,7 @@ body{
         
     }
 }
-@media screen and (max-width:1000px) {
+@media screen and (max-width:1080px) {
     
     .formbd{
         padding: 0%!important;
